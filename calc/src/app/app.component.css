@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    color: black;
+    margin-top: 10px;
+}
+.container {
+    width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .id2{
+    background:#9EE6E5;
+}
+  footer{
+      text-align: center;
+      font-size: 25px;
+      color: black;
+      background-color: #E6C37B;
+      margin-top: 50px;
+  }
